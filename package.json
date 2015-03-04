@@ -1,0 +1,22 @@
+{
+  "name": "on-client",
+  "version": "1.0.0",
+  "description": "True if running in browserified script, False if running in node",
+  "author": {
+    "name": "Matthew Francis Brunetti",
+    "email": "zenflow87@gmail.com"
+  },
+  "keywords": [
+    "browserify",
+	"client",
+	"server",
+	"context",
+	"where"
+  ],
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/zenflow/on-client"
+  },
+  "browser": {"./index.js": "./index.client.js"}
+}
