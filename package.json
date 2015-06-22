@@ -1,6 +1,6 @@
 {
   "name": "on-client",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "True if running in browserified script, False if running in node",
   "author": {
     "name": "Matthew Francis Brunetti",
